@@ -13,19 +13,3 @@ Hi, I'm Alisson Bastos. Welcome to my profile.
 💻 I love two things, technology and online games.
 
 ##
-
-# Alisson Bastos
-
-Olá, sou o Alisson Bastos. Bem-Vindo ao meu perfil.
-
-🎓 Atualmente estou estudando o último ano de Ciência da Computação.
-
-📚 Atualmente estou aprendendo: <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-
-💼 Atualmente trabalho como estágiario na Aquanima Brasil.
-
-💻 Eu amo duas coisas, tecnologia e jogos online.
-
-
-
-
